@@ -1,4 +1,4 @@
-.jumbotron {
+.jumbotron,.darkbg {/*The styling for my backgrounds*/
     background-color: black;
     color:white;
 }
