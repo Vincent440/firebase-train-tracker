@@ -1,4 +1,5 @@
 # unit-7-firebase
+
 Train Scheduler Basic Homework assignment for week 7. 
 
 A train schedule application that incorporates Firebase to host arrival and departure data.
@@ -18,7 +19,7 @@ namely their arrival times and how many minutes remain until they arrive at thei
 ### Check Out My Portfolio Here!
 
 
-profile page[https://vincent440.github.io]
+profile page [https://vincent440.github.io]
 
 
 live file here [https://vincent440.github.io/unit-7-firebase/]
