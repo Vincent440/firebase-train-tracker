@@ -68,21 +68,21 @@
               <form>
                 <div class="form-group">
                     <label for="train-name">Train Name</label>
-                    <input type="text" class="form-control" id="train-name" placeholder="Train Name:">
+                    <input type="text" class="form-control" id="train-name" placeholder="Train Name: ">
                 </div>
                 <div class="form-group">
                     <label for="destination">Destination</label>
-                    <input type="text" class="form-control" id="destination" placeholder="Enter Destination:">
+                    <input type="text" class="form-control" id="destination" placeholder="Destination: ">
                 </div>
                 <div class="form-group">
                   <!-- Working on setting up the time format and Frequency in what works best for this scenario -->
                     <label for="first-train">First Train Time</label>
                     <input type="time" min="00:00" max="23:59"class="form-control" id="first-train" placeholder="06:00">
-                    <small id="first-train" class="form-text text-muted">(HH:mm - military time)</small>
+                    <small id="first-train" class="form-text text-muted">(HH:mm)</small>
                 </div>
                 <div class="form-group">
                     <label class="form-group" for="frequency">Frequency (min)</label>
-                    <input type="number" class="form-control" id="frequency" placeholder="30">
+                    <input type="number" class="form-control" id="frequency" placeholder="Minutes">
                 </div>
                 <button class="btn btn-primary float-left" id="add-train-btn">Submit</button>
               </form>
