@@ -1,4 +1,4 @@
-# unit-7-firebase
+# Train Scheduler Firebase Web app
 
 Train Scheduler Basic Homework assignment for week 7. 
 
@@ -16,10 +16,8 @@ namely their arrival times and how many minutes remain until they arrive at thei
 ---
 
 
-### Check Out My Portfolio Here!
+### Check Out My Profile & Portfolio Here!
 
+Please go to my [Github Profile](https://github.com/Vincent440) to see my repositories.
 
-profile page [https://vincent440.github.io]
-
-
-live file here [https://vincent440.github.io/unit-7-firebase/]
+Don't forget to view my [Github Portfolio page](https://vincent440.github.io/) well you are there Thanks!
