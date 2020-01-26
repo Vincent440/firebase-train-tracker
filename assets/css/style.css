@@ -1,4 +1,7 @@
-.jumbotron,.darkbg {/*The styling for my backgrounds*/
-    background-color: black;
-    color:white;
+.jumbotron,.darkbg {
+    background: linear-gradient(
+        30deg,
+        rgb(94, 2, 2),
+        rgb(196, 64, 31)
+    );
 }
