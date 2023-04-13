@@ -1,10 +1,10 @@
 /* eslint-disable no-undef */
 /* eslint-env browser */
 /* global $ */
-// ---------------------------------------------------------------------------------------------------
+
 // Link to Live file here. https://vincent440.github.io/firebase-train-tracker/
-// -----------------------------------  Global Variable Declarations  ----------------------------------------------
-// Initialize Firebase - (1.)
+// ---------------------------------------------------------------------------------------------------
+
 const config = {
   apiKey: 'AIzaSyB6EK9wBiEo6i7KeX9AvziCK6pJjU1SPnk',
   authDomain: 'vince-train-scheduler.firebaseapp.com',
@@ -23,7 +23,7 @@ $('#add-train-btn').on('click', event => {
   event.preventDefault()
   // Train name saved to variable
   const newTrainName = $('#train-name').val().trim()
-  // Train destination to variable
+  // Train destination to variableS
   const tDest = $('#destination').val().trim()
 
   // First Train arrival time in military time to variable
